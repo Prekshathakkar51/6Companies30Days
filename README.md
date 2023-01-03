@@ -1,2 +1,2 @@
-# -6Companies30Days
+# 6Companies30Days
 This is the repository to update my learnings by solving DSA questions!
