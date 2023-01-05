@@ -1,16 +1,3 @@
-/*
-5 ms
-42.5 MB
-
-TC : O(N)
-SC : O(N)
-*/
-
-/**
- * @author : yashlondhe90960
-
-*/
-
 
 class Solution {
     public String getHint(String secret, String guess) {
